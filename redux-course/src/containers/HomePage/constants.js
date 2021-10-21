@@ -1,3 +1,3 @@
-const ActionTypes = {
-    SET_USERS = "app/containers/Homepage/SET_USERS"
-}
+export const ActionTypes = {
+  SET_USERS: "app/containers/Homepage/SET_USERS",
+};
